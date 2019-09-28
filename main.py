@@ -1,3 +1,4 @@
+%%writefile /content/LayoutGAN/main.py
 """A verification to the idea of LayoutGAN
 Referred to https://github.com/sngjuk/LayoutGAN
 
